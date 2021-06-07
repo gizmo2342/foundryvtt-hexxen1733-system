@@ -18,7 +18,7 @@
   "secondaryTokenAttribute": "power",
   "dependencies": [],
   "url": "https://gitlab.com/mbrunninger/fvtt-hexxen-1733-core/",
-  "manifest": "https://gitlab.com/mbrunninger/fvtt-hexxen-1733-core/-/raw/beta/system.json",
-  "download": "https://gitlab.com/mbrunninger/fvtt-hexxen-1733-core/-/archive/beta/fvtt-hexxen-1733-core-beta.zip",
+  "manifest": "https://gitlab.com/mbrunninger/fvtt-hexxen-1733-core/-/raw/develop/system.json",
+  "download": "https://gitlab.com/mbrunninger/fvtt-hexxen-1733-core/-/archive/develop/fvtt-hexxen-1733-core-develop.zip",
   "license": "LICENSE.txt"
 }
